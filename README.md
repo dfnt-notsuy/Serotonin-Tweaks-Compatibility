@@ -4,7 +4,6 @@ YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS 
 
 <details>
 <summary>Repos list:</summary>
----
 - Chariz: https://repo.chariz.com/
 - Havoc: https://havoc.app/
 - Roothide: https://roothide.github.io/
