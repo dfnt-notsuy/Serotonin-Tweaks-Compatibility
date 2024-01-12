@@ -44,7 +44,7 @@ YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS 
 | BetaAlertRemove                  | Remove Beta Alert Notification on Beta iOS version                                | yes                 | -                 | -            |
 | betterAlarm                      | Better Interface for Alarm                                                        | yes                 | Chariz            | -            |
 | BoldersReborn                    | Bring New UI to Folder view                                                       | yes                 | Chariz            | -            |
-| Cask3                            | Animated table scrolling                                                          | Partly work         | Chariz            | [Patched version for Serotonin](https://github.com/dfnt-notsuy/Serotonin-Tweaks-Compatibility/raw/main/Debs/cask3patch.deb)   |
+| Cask3                            | Animated table scrolling                                                          | Partly work         | Chariz            | [Discord for Patch](https://discord.gg/cherimoya)   |
 | CC On & Off                      | Toggle Wi-Fi and Bluetooth On/Off from Control Center (iOS 11+).                  | yes                 | Roothide's repo   | -            |
 | CCSupport                        | Add support for CC tweaks                                                         | yes                 | Roothide's repo   | -            |
 | ColorMyBattery                   | Change your Battery's Color                                                       | yes                 | Roothide's repo   | -            |
