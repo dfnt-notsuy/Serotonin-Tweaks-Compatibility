@@ -2,8 +2,7 @@
 A Repo to upload compatibility tweaks for Serotonin (Roothide Bootstrap Springboard inject) - iOS 16.x 
 YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS AND THEY WORK OR DON'T WORK
 
-<details>
-<summary>**Repos list:**</summary>
+## Repos list:
 | Name                         | Description	                                              |
 | ---------------------------: | ---------------------------------------------------------- |
 | Chariz                       | https://repo.chariz.com/                                   |
@@ -26,8 +25,7 @@ YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS 
 | Limneos Repo                 | http://limneos.net/repo/                                   |
 | JunesiPhone                  | http://junesiphone.com/supersecret/                        |
 
-</details>
-
+## Tweaks list
 | Name                             | Description	                                                                     | Working?            | Source            | Note         |
 | -------------------------------: | --------------------------------------------------------------------------------- | ------------------- | ----------------- | ------------ |
 | 3DAppVersionSpoofer              | A tweak to add app spoofing capabilities right from your 3D menu and prefs        | yes                 | Roothide's repo   | -            |
