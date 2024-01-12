@@ -41,11 +41,53 @@ YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS 
 | AutoBrightnessToggle (CCSupport) | Add toggle to turn on/off Auto Brightness                                         | yes                 | ichitaso repo     | -            |
 | AutoUnlockX                      | Auto unlock your device after face authentication success                         | yes                 | SparkDev          | -            |
 | Atria                            | Customize your Homescreen with various feature                                    | yes                 | Chariz            | -            |
+| BatteryBuddy                     | Battery indicator, but cute                                                       | yes                 | -                 | -            |
 | BetaAlertRemove                  | Remove Beta Alert Notification on Beta iOS version                                | yes                 | -                 | -            |
 | betterAlarm                      | Better Interface for Alarm                                                        | yes                 | Chariz            | -            |
+| BetterCC                         | Customize your Control Center!                                                    | yes                 | Havoc             | -            |
+| BetterCCXI                       | Customize your Control Center!                                                    | yes                 | Packix            | -            |
+| BioProtect XS                    | Face ID, Touch ID or passcode                                                     | yes                 | Limneos           | -            |
 | BoldersReborn                    | Bring New UI to Folder view                                                       | yes                 | Chariz            | -            |
+| CAHighFPS                        | Make your CoreAnimation applications use the highest available FPS.               | yes                 | PoomSmart's Repo  | -            |
 | Cask3                            | Animated table scrolling                                                          | Partly work         | Chariz            | [Discord for Patch](https://discord.gg/cherimoya)   |
 | CC On & Off                      | Toggle Wi-Fi and Bluetooth On/Off from Control Center (iOS 11+).                  | yes                 | Roothide's repo   | -            |
+| CCPowerMenu                      | Control device power options from Control Center.                                 | yes                 | MTAC's repo       | -            |
 | CCSupport                        | Add support for CC tweaks                                                         | yes                 | Roothide's repo   | -            |
 | ColorMyBattery                   | Change your Battery's Color                                                       | yes                 | Roothide's repo   | -            |
+| ColorBar15                       | A colorful step above for the same status bar you know and love!                  | yes                 | DTCalabro’s Repo  | -            |
+| CustomizeCC                      | Customize your Control Center!                                                    | yes                 | Havoc             | -            |
+| DLEasy                           | Download/Share images & videos from social apps easily!                           | yes                 | Havoc             | -            |
+| Dodo                             | The best lockscreen tweak                                                         | yes                 | Ginsu Tweaks      | -            |
+| DownloadBar13                    | Show a progress bar for downloading apps instead!                                 | yes                 | alias20           | -            |
 | DynamicPeninsula                 | Get Dynamic Island effects on your notch!                                         | yes                 | Limneos           | -            |
+| Eneko                            | Get livewallpaper back                                                            | yes                 | [vyolit](https://github.com/vyolit/Eneko)           | -            |
+| Everest                          | Awesome animations when you launch your apps!                                     | yes                 | Havoc             | -            |
+| EZSwipe                          | Customize the swipe down gesture on the homescreen                                | yes                 | Roothide's repo   | -            |
+| FakeSignalBar                    | Spoof Statusbar twweak                                                            | yes                 | alias20           | -            |
+| FingerLock                       | Unlock your device easily with a customizable Lockscreen button                   | yes                 | Havoc             | -            |
+| Five Icon Dock                   | Adding five icons to dock                                                         | yes                 | Roothide's repo   | -            |
+| FloatingDockXVI                  | Adding customization to dock                                                      | yes                 | ETHN's repo       | -            |
+| Gravitation                      | Set your icons free!                                                              | yes                 | -                 | -            |
+| iCleaner Pro                     | The first real iOS system cleaner!                                                | yes (Shell only)    | Ivano Bilenchi    | Use Newterm3 Beta to clean            |
+| IconOrder                        | Preserve custom icon layouts by Springboard Crash or reboots etc                  | yes                 | Havoc             | -            |
+| IconRotation                     | Rotate your icons with device orientation!                                        | yes                 | ETHN's repo       | -            |
+| InstaLauncher 2                  | a system wide application launcher.                                               | yes                 | Havoc             | -            |
+| Jade                             | Your control center, brought anew.                                                | yes                 | Chariz            | -            |
+| Killapps                         | Unleash the full potential of your iOS App Switcher                               | yes                 | -                 | -            |
+| Laetus                           | Limitless Keyboard Customisation                                                  | yes                 | SparkDev          | -            |
+| Latchkey                         | Customize the Face-ID Lock Glyph                                                  | yes                 | Nezuko's Repo     | -            |
+| LocationService (CCSupport)      | You can turn on / off LocationService from the control center.                    | yes                 | ichitaso repo     | -            |
+| Lynx 2                           | Ultimate Device Customization                                                     | yes                 | Havoc             | -            |
+| NoDockGround                     | Make Clear the Background of the Dock!                                            | yes                 | Roothide's repo   | -            |
+| NowPlayingIconXVI                | Change your now playing app icon to the album artwork of currently playing music! | yes                 | Havoc             | -            |
+| OTADisabler                      | Disable OTA Update                                                                | yes                 | ichitaso repo     | -            |
+| PinAnim                          | Animate your PIN lockscreen                                                       | yes                 | Havoc             | -            |
+| PowerSelector                    | Adding Respring/LDRestart/... to your CC and app                                  | yes                 | ichitaso repo     | -            |
+| QuickActions                     | Start using your phone quicker by launching your favorite apps directly from the lockscreen.   | yes    | ichitaso repo     | -            |
+| Rune                             | The easiest way to control your iOS device!                                       | yes                 | Havoc             | -            |
+| ShowTouch                        | A tweak to show touching events on the screen                                     | yes                 | Roothide's repo   | -            |
+| Shuffle                          | Organize your settings                                                            | yes                 | CreatureCoding    | -            |
+| SmartBattery                     | SmartBattery is the only thing standing in your way to have the complete smartphone!      | yes         | Havoc             | -            |
+| Snapper 3                        | Pin your screenshot on your screen                                                | yes                 | Havoc             | -            |
+| SnowBoard                        | Theme your devices                                                                | yes                 | Nezuko's Repo     | Can't Change extension settings            |
+| Sonitus                          | Noise-controls like native, but for non-Apple devices.                            | yes                 | Chariz            | -            |
