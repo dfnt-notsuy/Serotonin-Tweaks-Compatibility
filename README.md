@@ -28,7 +28,7 @@ YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS 
 
 | Name                             | Description	                                                                     | Working?            | Source            | Note                                                                                                      
                                               |
-| -------------------------------: | --------------------------------------------------------------------------------- | --------------------| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| -------------------------------: | --------------------------------------------------------------------------------- | ------------------- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 3DAppVersionSpoofer              | A tweak to add app spoofing capabilities right from your 3D menu and prefs        | yes                 | Roothide's repo   |                                                                                                           
                                               |
 | AdvancedBrightnessSlider         | Tweak to dim the screen even further with the brightness slider in Control Center | yes                 | Havoc             |                                                                                                           
