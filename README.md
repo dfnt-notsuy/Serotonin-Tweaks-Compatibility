@@ -3,7 +3,7 @@ A Repo to upload compatibility tweaks for Serotonin (Roothide Bootstrap Springbo
 YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS AND THEY WORK OR DON'T WORK
 
 <details>
-<summaryRepos list:</summary>
+<summary>Repos list:</summary>
 ---
 > Chariz: https://repo.chariz.com/
   Havoc: https://havoc.app/
