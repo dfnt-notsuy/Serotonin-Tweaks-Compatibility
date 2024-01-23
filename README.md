@@ -95,6 +95,7 @@ YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS 
 | LocationService (CCSupport)      | You can turn on / off LocationService from the control center.                    | yes                 | ichitaso repo     | -            |
 | Lynx 2                           | Ultimate Device Customization                                                     | yes                 | Havoc             | -            |
 | MoreLinesNotifications           | The Tweak Increases the Lines for the Notifications                               | yes                 | BigBoss           | -            |
+| NewTerm3 Beta                    | Terminal controls for iOS                                                         | yes                 | Roothide's repo   | -            |
 | NiceBarX                         | -                                                                                 | yes                 | NiceiOS           | -            |
 | NiceCaller                       | -                                                                                 | yes                 | NiceiOS           | -            |
 | NoDockGround                     | Make Clear the Background of the Dock!                                            | yes                 | Roothide's repo   | -            |
