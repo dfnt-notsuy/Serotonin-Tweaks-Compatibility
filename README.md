@@ -64,7 +64,7 @@ YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS 
 | CloseAll                         | Close All apps in the App Switcher on iOS 15 - 16                                 | yes                 | Havoc             | -            |
 | ColorMyBattery                   | Change your Battery's Color                                                       | yes                 | Roothide's repo   | -            |
 | ColorBar15                       | A colorful step above for the same status bar you know and love!                  | yes                 | DTCalabro’s Repo  | -            |
-| Complication                     | watchOS widgets on your lock screen                                               | yes                 | Havoc             | Need ComplicationFix from iCraze's Repo    |
+| Complication                     | watchOS widgets on your lock screen                                               | yes                 | Havoc             | Need ComplicationFix from iCraze's Repo. Weather widgets make device auto respring when pull down to check notifications.        |
 | ComplicationFix                  | Fix Complications tweak on iOS 15-17                                              | yes                 | iCraze's Repo     | -            |
 | covertCK                         | Hide & Mute conversations in Messages app                                         | yes                 | CreatureCoding    | -            |
 | Cthulhu                          | Custom Text below Press Home to Open/Swipe up to Unlock & More!                   | yes                 | BigBoss           | -            |
