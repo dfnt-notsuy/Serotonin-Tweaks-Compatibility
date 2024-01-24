@@ -4,29 +4,29 @@ A Repo to upload compatibility tweaks for Serotonin `Roothide Bootstrap Springbo
 YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS AND THEY WORK OR DON'T WORK
 
 ## Repos list:
-| Name                         | Description	                                              |
-| ---------------------------: | ---------------------------------------------------------- |
-| Chariz                       | https://repo.chariz.com/                                   |
-| Havoc                        | https://havoc.app/                                         |
-| Roothide                     | https://roothide.github.io/                                |
-| iCrazeiOS                    | https://repo.icrazeios.com/                                |
-| BigBoss                      | https://apt.thebigboss.org/reprofiles/cydia/               |
-| CreatureCoding               | https://creaturecoding.com/repo/                           |
-| ETHN's Repo                  | https://nahtedetihw.github.io/                             |
-| Ginsu Tweaks                 | https://ginsu.dev/repo/                                    |
-| Acreson Mirror-Rootless      | https://acreson.github.io/mirror-rootless                  |
-| Ivano Bilenchi               | https://ib-soft.net/repo/                                  |
-| ichitaso repository          | https://ichitaso.com/apt/                                  |
-| KingPuffdaddi's Repo         | https://kingpuffdaddi.github.io/                           |
-| Nezuko's Repo                | https://siieo.github.io/                                   |
-| NoW4U2Kid                    | https://now4u2kid.github.io/                               |
-| opa334's Repo                | https://opa334.github.io/                                  |
-| P2KDev's Repo                | https://p2kdev.github.io/repo/                             |
-| SparkDev                     | https://sparkdev.me/                                       |
-| Limneos Repo                 | http://limneos.net/repo/                                   |
-| JunesiPhone                  | http://junesiphone.com/supersecret/                        |
+| Name                         | Description	                                              | Name                         | Description	                                              |
+| ---------------------------: | ---------------------------------------------------------- | ---------------------------: | ---------------------------------------------------------- |
+| Chariz                       | https://repo.chariz.com/                                   | Akusio                       | https://akusio.github.io/                                  |
+| Havoc                        | https://havoc.app/                                         | alias20                      | https://alias20.gitlab.io/apt/                             |
+| Roothide                     | https://roothide.github.io/                                | AnthoPak's Repo              | https://repo.anthopak.dev/                                 |
+| iCrazeiOS                    | https://repo.icrazeios.com/                                | b4db1r3's r3p0               | https://b4db1r3.github.io/d3vr3p0/                         |
+| BigBoss                      | https://apt.thebigboss.org/reprofiles/cydia/               | Dcsyhi1998's Repo            | https://dcsyhi1998.github.io/                              |
+| CreatureCoding               | https://creaturecoding.com/repo/                           | DTCalabro's Repo             | https://dtcalabro.github.io/repo/                          |
+| ETHN's Repo                  | https://nahtedetihw.github.io/                             | iCraze                       | https://repo.icrazeios.com/                                |
+| Ginsu Tweaks                 | https://ginsu.dev/repo/                                    | iGerman                      | https://repo.igerman.cc/                                   |
+| Acreson Mirror-Rootless      | https://acreson.github.io/mirror-rootless                  | iKarwan                      | https://repo.ikghd.me/                                     |
+| Ivano Bilenchi               | https://ib-soft.net/repo/                                  | Merona                       | https://repo.co.kr/                                        |
+| ichitaso repository          | https://ichitaso.com/apt/                                  | MiRO's Repo                  | https://miro92.com/repo/                                   |
+| KingPuffdaddi's Repo         | https://kingpuffdaddi.github.io/                           | MTAC's Repo                  | https://mtac.app/repo/                                     |
+| Nezuko's Repo                | https://siieo.github.io/                                   | PoomSmart's Repo             | https://poomsmart.github.io/repo/                          |
+| NoW4U2Kid                    | https://now4u2kid.github.io/                               | rob311's beta repo           | https://cydia.rob311.com/repo/                             |
+| opa334's Repo                | https://opa334.github.io/                                  | Lizynz's Repo                | https://lizynz.github.io/                                  |
+| P2KDev's Repo                | https://p2kdev.github.io/repo/                             | NiceiOS                      | https://repo.niceios.com/                                  |
+| SparkDev                     | https://sparkdev.me/                                       | TIGI Sofware                 | https://tigisofware.com/repo                               |
+| Limneos Repo                 | http://limneos.net/repo/                                   | JunesiPhone                  | http://junesiphone.com/supersecret/                        |
 
-## Tweaks list
+
+## Working tweaks list
 | Name                             | Description	                                                                     | Working?            | Source            | Note         |
 | -------------------------------: | --------------------------------------------------------------------------------- | ------------------- | ----------------- | ------------ |
 | 3DAppVersionSpoofer              | A tweak to add app spoofing capabilities right from your 3D menu and prefs        | yes                 | Roothide's repo   | -            |
@@ -121,3 +121,28 @@ YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS 
 | SnowBoard                        | Theme your devices                                                                | yes                 | Nezuko's Repo     | Can't Change extension settings            |
 | Spectrum                         | System color customizer                                                           | Partly              | Roothide's repo   | Color not fully change, some stays on Defaut              |
 | Sonitus                          | Noise-controls like native, but for non-Apple devices.                            | yes                 | Chariz            | -            |
+| Trim                             | Marvelous Majestic Magnificence of Masterfully Minimized Mobile Margins           | yes                 | iGerman           | -            |
+| TrollLEDs                        | A TrollStore application to control individual flashlight LEDs for iOS devices.   | yes                 | PoomSmart's Repo  | Better use TrollStore version    |
+| TapTapSlumber                    | Double-tap the lock screen, home screen, or status bar to lock your device.       | yes                 | iGerman           | -            |
+| Zenitsu                          | The best multitasking tweak                                                       | Partly working      | Dcsyhi1998's Repo | Open from 3DTouch menu works, but open from normal apps will send you to safe mode      |
+| YetAnotherHomeBarHider           | Hides the home bar                                                                | yes                 | iGerman           | -            |
+| YouTubeKiller                    | A whole new YouTube Experience                                                    | yes                 | iKarwan           | -            |
+| YTABConfig                       | Configure A/B settings in iOS YouTube app.                                        | yes                 | PoomSmart's Repo  | Can use modified version .ipa and install through TrollStore for better experiance           |
+
+
+## Not working tweaks list
+| Name                             | Description	                                                                     | Working?            | Source            | Note         |
+| -------------------------------: | --------------------------------------------------------------------------------- | ------------------- | ----------------- | ------------ |
+| Aemulo                           | NFC Frickery                                                                      | No                  | Chariz            | No tweak injection support for NFCD.  |
+| AudioRecorder XS                 | Most Advanced iOS Call Recorder Ever!                                             | No                  | Limneos           | Doesn't record calls   |
+| Axon                             | Priority Hub                                                                      | No                  | Merona's Repo     | Sends you to safe mode when clicking on notifications.    |
+| CarBridge                        | Open any app in CarPlay!                                                          | No                  | Havoc             | Not showing up on CarPlay Settings    |
+| Color3DIcons                     | Get Custom Colors and Even More Options for your 3D Touch Menus Views!            | No                  | BigBoss           | Sends you to safe mode when attempting to open colored 3D touch menu.    |
+| Dynamic Stage	                   | Stage Manager Reimagined for iPhone                                               | No                  | Havoc             | After installing and respring it freezes and restarts the device.   |
+| Juice                            | Unparalleled Battery Customisation                                                | No                  | SparkDev          | It seems that after you link your Patreon account, the license doesn't take effect.     |
+| MilkyWay4                        | The most advanced tweak for multitasking                                          | No                  | Akusio's Repo     | There's no option in the 3D touch menu to open the app as a window.      |
+| Nexus                            | Next-level lockscreen customisation!                                              | No                  | Havoc             | Send you to SafeMode   |
+| Prysm                            | Control center the way it should be.                                              | No                  | Havoc             | Send you to SafeMode   |
+| VolVibes                         | Change the Volume Button vibrations, color the Volume HUD, and add volume percen  | No                  | Havoc             | Doesn't work and crashes settings when attempting to open its preferences.    |
+| YellowPages 2                    | Know the caller ID before answering.                                              | No                  | Miro's Repo       | Not activating with TrueCaller.       |
+
