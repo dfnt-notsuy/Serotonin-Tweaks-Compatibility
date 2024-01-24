@@ -125,6 +125,7 @@ YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS 
 | PanCake                          | Bring interactive dismiss gesture on the whole screen to all apps! Also adds the ability to restore previous closed page.        | yes                 | anthopak's Repo      | -            |
 | PinAnim                          | Animate your PIN lockscreen                                                       | yes                 | Havoc             | -            |
 | PowerSelector                    | Adding Respring/LDRestart/... to your CC and app                                  | yes                 | ichitaso repo     | -            |
+| PrimeDeck                        | Design and Control Your Appswitcher!                                              | yes                 | [0xkuj's repo](https://0xkuj.yourepo.com/)      | -            |
 | QuickActions                     | Start using your phone quicker by launching your favorite apps directly from the lockscreen.     | yes    | ichitaso repo        | -            |
 | ReachPlayer                      | Now Playing info in Reachability Window!                                          | yes                 | ETHN's repo       | -            |
 | RecordPause                      | Pause/resume video recording for stock camera app.                                | yes                 | PoomSmart's Repo  | -            |
