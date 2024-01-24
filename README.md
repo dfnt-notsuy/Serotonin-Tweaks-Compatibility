@@ -31,6 +31,7 @@ YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS 
 | -------------------------------: | --------------------------------------------------------------------------------- | ------------------- | ----------------- | ------------ |
 | 3DAppVersionSpoofer              | A tweak to add app spoofing capabilities right from your 3D menu and prefs        | yes                 | Roothide's repo   | -            |
 | AdvancedBrightnessSlider         | Tweak to dim the screen even further with the brightness slider in Control Center | yes                 | Havoc             | -            |
+| A-Font                           | Change your font!                                                                 | yes                 | Nezuko's Repo     | -            |
 | Akara                            | A control center tweak.                                                           | yes                 | Chariz            | -            |
 | Alpine                           | Proper tvOS alerts for iOS.                                                       | yes                 | Havoc             | -            |
 | Always120                        | Make iOS 15+ ProMotion Devices auto-adpat/reach to 120Hz.                         | yes                 | Havoc             | -            |
@@ -81,6 +82,7 @@ YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS 
 | FingerLock                       | Unlock your device easily with a customizable Lockscreen button                   | yes                 | Havoc             | -            |
 | Five Icon Dock                   | Adding five icons to dock                                                         | yes                 | Roothide's repo   | -            |
 | FloatingDockXVI                  | Adding customization to dock                                                      | yes                 | ETHN's repo       | -            |
+| Flex3                            | Modifying apps gets easier, with Flex 3                                           | yes                 | Nezuko's Repo     | -            |
 | Gravitation                      | Set your icons free!                                                              | yes                 | -                 | -            |
 | iCleaner Pro                     | The first real iOS system cleaner!                                                | yes (Shell only)    | Ivano Bilenchi    | Use Newterm3 Beta to clean            |
 | IconOrder                        | Preserve custom icon layouts by Springboard Crash or reboots etc                  | yes                 | Havoc             | -            |
