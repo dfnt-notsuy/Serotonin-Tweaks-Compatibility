@@ -146,3 +146,6 @@ YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS 
 | VolVibes                         | Change the Volume Button vibrations, color the Volume HUD, and add volume percen  | No                  | Havoc             | Doesn't work and crashes settings when attempting to open its preferences.    |
 | YellowPages 2                    | Know the caller ID before answering.                                              | No                  | Miro's Repo       | Not activating with TrueCaller.       |
 
+## Credits
+- [Roothide Bootstrap (by roothideDev)](https://github.com/roothide/Bootstrap)
+- [Serotonin semi-jailbreak (by htrowii and mineek)](https://github.com/mineek/Serotonin)
