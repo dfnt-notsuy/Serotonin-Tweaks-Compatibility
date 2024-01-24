@@ -124,7 +124,7 @@ YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS 
 | Trim                             | Marvelous Majestic Magnificence of Masterfully Minimized Mobile Margins           | yes                 | iGerman           | -            |
 | TrollLEDs                        | A TrollStore application to control individual flashlight LEDs for iOS devices.   | yes                 | PoomSmart's Repo  | Better use TrollStore version    |
 | TapTapSlumber                    | Double-tap the lock screen, home screen, or status bar to lock your device.       | yes                 | iGerman           | -            |
-| Zenitsu                          | The best multitasking tweak                                                       | Partly working      | Dcsyhi1998's Repo | Open from 3DTouch menu works, but open from normal apps will send you to safe mode      |
+| Zetsu                            | The best multitasking tweak                                                       | Partly working      | Dcsyhi1998's Repo | Open from 3DTouch menu works, but open from normal apps will send you to safe mode      |
 | YetAnotherHomeBarHider           | Hides the home bar                                                                | yes                 | iGerman           | -            |
 | YouTubeKiller                    | A whole new YouTube Experience                                                    | yes                 | iKarwan           | -            |
 | YTABConfig                       | Configure A/B settings in iOS YouTube app.                                        | yes                 | PoomSmart's Repo  | Can use modified version .ipa and install through TrollStore for better experiance           |
