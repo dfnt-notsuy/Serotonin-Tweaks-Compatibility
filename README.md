@@ -75,6 +75,7 @@ YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS 
 | ComplicationFix                  | Fix Complications tweak on iOS 15-17                                              | yes                 | iCraze's Repo     | -            |
 | covertCK                         | Hide & Mute conversations in Messages app                                         | yes                 | CreatureCoding    | -            |
 | Cthulhu                          | Custom Text below Press Home to Open/Swipe up to Unlock & More!                   | yes                 | BigBoss           | -            |
+| Cylinder Remade                  | Make your icons dance                                                             | yes                 | Nezuko's Repo     | -            |
 | CustomizeCC                      | Customize your Control Center!                                                    | yes                 | Havoc             | -            |
 | Data Logo Switcher               | Change iOS 3G/4G/LTE logo                                                         | yes                 | BigBoss           | -            |
 | DeleteCut                        | Delete word mode while holding shift.                                             | yes                 | BigBoss           | -            |
