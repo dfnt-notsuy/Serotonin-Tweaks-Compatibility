@@ -75,12 +75,14 @@ YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS 
 | ComplicationFix                  | Fix Complications tweak on iOS 15-17                                              | yes                 | iCraze's Repo     | -            |
 | covertCK                         | Hide & Mute conversations in Messages app                                         | yes                 | CreatureCoding    | -            |
 | Cthulhu                          | Custom Text below Press Home to Open/Swipe up to Unlock & More!                   | yes                 | BigBoss           | -            |
-| Cylinder Remade                  | Make your icons dance                                                             | yes                 | Nezuko's Repo     | -            |
 | CustomizeCC                      | Customize your Control Center!                                                    | yes                 | Havoc             | -            |
+| Cylinder Remade                  | Make your icons dance                                                             | yes                 | Nezuko's Repo     | -            |
 | Data Logo Switcher               | Change iOS 3G/4G/LTE logo                                                         | yes                 | BigBoss           | -            |
 | DeleteCut                        | Delete word mode while holding shift.                                             | yes                 | BigBoss           | -            |
 | Designer                         | Design layouts for lockscreen and homescreen                                      | yes                 | JunesiPhone       | -            |
+| Ding                             | Take control of your ringer switch!                                               | yes                 | Chariz            | -            |
 | DLEasy                           | Download/Share images & videos from social apps easily!                           | yes                 | Havoc             | -            |
+| DockX                            | Add pasteboard shortcuts to your keyboard dock!                                   | yes                 | udevs             | -            |
 | Dodo                             | The best lockscreen tweak                                                         | yes                 | Ginsu Tweaks      | -            |
 | DownloadBar13                    | Show a progress bar for downloading apps instead!                                 | yes                 | alias20           | -            |
 | DynamicPeninsula                 | Get Dynamic Island effects on your notch!                                         | yes                 | Limneos           | -            |
@@ -99,8 +101,9 @@ YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS 
 | iCleaner Pro                     | The first real iOS system cleaner!                                                | yes (Shell only)    | Ivano Bilenchi    | Use Newterm3 Beta to clean            |
 | IconOrder                        | Preserve custom icon layouts by Springboard Crash or reboots etc                  | yes                 | Havoc             | -            |
 | IconRotation                     | Rotate your icons with device orientation!                                        | yes                 | ETHN's repo       | -            |
-| InstaLauncher 2                  | a system wide application launcher.                                               | yes                 | Havoc             | -            |
+| InstaLauncher 2                  | A system wide application launcher.                                               | yes                 | Havoc             | -            |
 | Jade                             | Your control center, brought anew.                                                | yes                 | Chariz            | -            |
+| KBPro                            | Quickly select, copy and paste text                                               | yes                 | Ginsu Tweaks      | -            |
 | Killapps                         | Unleash the full potential of your iOS App Switcher                               | yes                 | -                 | -            |
 | KrashKop                         | Lightweight crash reporter                                                        | yes                 | Havoc             | Better use TrollStore version         |
 | Kayoko                           | Clipboard manager for iOS.                                                        | yes                 | [vyolit](https://github.com/vyolit/Kayoko)           | -            |
@@ -117,6 +120,7 @@ YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS 
 | NewTerm3 Beta                    | Terminal controls for iOS                                                         | yes                 | Roothide's repo   | -            |
 | NiceBarX                         | -                                                                                 | yes                 | NiceiOS           | -            |
 | NiceCaller                       | -                                                                                 | yes                 | NiceiOS           | -            |
+| NiceLogX                         | -                                                                                 | yes                 | NiceiOS           | -            |
 | NoDockGround                     | Make Clear the Background of the Dock!                                            | yes                 | Roothide's repo   | -            |
 | NoMoreDisabled                   | Prevents the Permanent Passcode Locking!                                          | yes                 | BigBoss           | -            |
 | NotiCopy15                       | Lets you copy text from notifications                                             | yes                 | iCraze's Repo     | -            |
@@ -132,9 +136,11 @@ YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS 
 | RecordPause                      | Pause/resume video recording for stock camera app.                                | yes                 | PoomSmart's Repo  | -            |
 | Rune                             | The easiest way to control your iOS device!                                       | yes                 | Havoc             | -            |
 | Senri                            | Never lose your Notifications again!                                              | yes                 | Chariz            | -            |
+| SettingsRevamp                   | Customize Settings app                                                            | yes                 | dhinakg's repo    | -            | 
 | ShakeLight                       | Shake your device to toggle flashlight.                                           | yes                 | Snoolie’s repo    | -            | 
 | ShowTouch                        | A tweak to show touching events on the screen                                     | yes                 | Roothide's repo   | -            |
 | Shuffle                          | Organize your settings                                                            | yes                 | CreatureCoding    | -            |
+| SkinnySettings                   | Make your Settings Minimal/Sleek & More!                                          | yes                 | BigBoss           | -            |
 | SmartBattery                     | SmartBattery is the only thing standing in your way to have the complete smartphone!      | yes         | Havoc             | -            |
 | SmartNetwork                     | The most complete tweak to customize WiFi / mobile data and Bluetooth             | yes                 | Havoc             | -            |
 | Snapper 3                        | Pin your screenshot on your screen                                                | yes                 | Havoc             | -            |
@@ -151,6 +157,7 @@ YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS 
 | Uptime                           | keeps track of your device’s uptime in Control Center                             | yes                 | Roothide's repo   | 
 | Ve                               | Natively integrated notification logger.                                          | yes                 | [vyolit](https://github.com/vyolit/Ve)          | -            |
 | Velvet 2                         | A fully customizable notification experience for iOS 15 & 16                      | yes                 | Chariz            | -            |
+| Violet/Violet Pro                | The professional maid for your phone who doesn't need roots.                      | ?                   | Havoc             | -            |
 | VolSkip11                        | Skip tracks by holding the Volume buttons.                                        | yes                 | rob311's repo     | -            |
 | WifiQR                           | Generate a QR code for WiFi networks directly in the settings app.                | yes                 | BigBoss           | -            |
 | YetAnotherHomeBarHider           | Hides the home bar                                                                | yes                 | iGerman           | -            |
@@ -181,7 +188,6 @@ YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS 
 | -------------------------------: | --------------------------------------------------------------------------------- | ------------------- | ----------------- | ------------ |
 | FastLockX                        | Unlock Face iD devices without swipe                                              | ?                   | Havoc             | -            |
 | Minotaur                         | Notifications in your Status Bar                                                  | ?                   | Havoc             | libnotifications for test notification not update to compatible for test. Thus, i use nicebarX so i cannot test if it fully working or not           |
-| Violet/Violet Pro                | The professional maid for your phone who doesn't need roots.                      | ?                   | Havoc             | it's a paid tweak so i cannot test it right now          |
 
 
 
