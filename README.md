@@ -24,6 +24,7 @@ YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS 
 | P2KDev's Repo                | https://p2kdev.github.io/repo/               | NiceiOS                      | https://repo.niceios.com/           |
 | SparkDev                     | https://sparkdev.me/                         | TIGI Sofware                 | https://tigisofware.com/repo        |
 | Limneos Repo                 | http://limneos.net/repo/                     | JunesiPhone                  | http://junesiphone.com/supersecret/ |
+| Dakota's Repo                | https://dakota1337x.github.io/               | -                            | -                                   | 
 
 
 ## Working tweaks list
