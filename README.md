@@ -46,8 +46,10 @@ YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS 
 | April                            | Augment your settings app aesthetics to the next level on the fly                 | yes                 | Luki120's Repo    | -            |
 | ArtFull                          | Make Apple Music artworks looks like iOS 17.                                      | yes                 | Havoc             | -            |
 | Atria                            | Customize your Homescreen with various feature                                    | yes                 | Chariz            | -            |
+| AudioRecorder XS                 | Most Advanced iOS Call Recorder Ever!                                             | Yes                 | Limneos           | -            |
 | AutoBrightnessToggle (CCSupport) | Add toggle to turn on/off Auto Brightness                                         | yes                 | ichitaso repo     | -            |
 | AutoUnlockX                      | Auto unlock your device after face authentication success                         | yes                 | SparkDev          | -            |
+| Axon                             | Priority Hub for iOS 11 / 12 / 13 / 14.                                           | yes                 | Dakota's Repo     | -            |
 | BatteryBuddy                     | Battery indicator, but cute                                                       | yes                 | Nezuko's Repo     | -            |
 | BackgrounderAction15 (CCSupport) | Add "toggle Background mode" action to ControlCenter                              | yes                 | Akusio's Repo     | -            |
 | Badger                           | Notification badges. Reimagined.                                                  | yes                 | Havoc             | -            |
@@ -170,8 +172,6 @@ YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS 
 | Name                             | Description	                                                                     | Working?            | Source            | Note         |
 | -------------------------------: | --------------------------------------------------------------------------------- | ------------------- | ----------------- | ------------ |
 | Aemulo                           | NFC Frickery                                                                      | No                  | Chariz            | No tweak injection support for NFCD.  |
-| AudioRecorder XS                 | Most Advanced iOS Call Recorder Ever!                                             | No                  | Limneos           | Doesn't record calls   |
-| Axon                             | Priority Hub                                                                      | No                  | Merona's Repo     | Sends you to safe mode when clicking on notifications.    |
 | CarBridge                        | Open any app in CarPlay!                                                          | No                  | Havoc             | Not showing up on CarPlay Settings    |
 | Color3DIcons                     | Get Custom Colors and Even More Options for your 3D Touch Menus Views!            | No                  | BigBoss           | Sends you to safe mode when attempting to open colored 3D touch menu.    |
 | Dynamic Stage	                   | Stage Manager Reimagined for iPhone                                               | No                  | Havoc             | After installing and respring it freezes and restarts the device.   |
