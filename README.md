@@ -24,7 +24,7 @@ YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS 
 | P2KDev's Repo                | https://p2kdev.github.io/repo/               | NiceiOS                      | https://repo.niceios.com/           |
 | SparkDev                     | https://sparkdev.me/                         | TIGI Sofware                 | https://tigisofware.com/repo        |
 | Limneos Repo                 | http://limneos.net/repo/                     | JunesiPhone                  | http://junesiphone.com/supersecret/ |
-| Dakota's Repo                | https://dakota1337x.github.io/               | -                            | -                                   | 
+| Dakota's Repo                | https://dakota1337x.github.io/               | Brend0n's repo               | https://brendonjkding.github.io/    | 
 
 
 ## Working tweaks list
@@ -89,6 +89,7 @@ YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS 
 | Dodo                             | The best lockscreen tweak                                                         | yes                 | Ginsu Tweaks      | -            |
 | DownloadBar13                    | Show a progress bar for downloading apps instead!                                 | yes                 | alias20           | -            |
 | DynamicPeninsula                 | Get Dynamic Island effects on your notch!                                         | yes                 | Limneos           | -            |
+| Eliza                            | Change your Battery's Color                                                       | yes                 | WilsontheWolf's Repo   | -            | 
 | Eneko                            | Get livewallpaper back                                                            | yes                 | [vyolit](https://github.com/vyolit/Eneko)           | -            |
 | Everest                          | Awesome animations when you launch your apps!                                     | yes                 | Havoc             | -            |
 | EZSwipe                          | Customize the swipe down gesture on the homescreen                                | yes                 | Roothide's repo   | -            |
@@ -105,6 +106,7 @@ YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS 
 | IconOrder                        | Preserve custom icon layouts by Springboard Crash or reboots etc                  | yes                 | Havoc             | -            |
 | IconRotation                     | Rotate your icons with device orientation!                                        | yes                 | ETHN's repo       | -            |
 | InstaLauncher 2                  | A system wide application launcher.                                               | yes                 | Havoc             | -            |
+| iKeywi 4                         | iKeywi is a tweak that lets you customize your iPhone's keyboard.                 | yes                 | Havoc             | Flick mode cause preview characters in 1st line broken, but still work tho         |
 | Jade                             | Your control center, brought anew.                                                | yes                 | Chariz            | -            |
 | KBPro                            | Quickly select, copy and paste text                                               | yes                 | Ginsu Tweaks      | -            |
 | Killapps                         | Unleash the full potential of your iOS App Switcher                               | yes                 | -                 | -            |
@@ -120,6 +122,8 @@ YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS 
 | MoreLinesNotifications           | The Tweak Increases the Lines for the Notifications                               | yes                 | BigBoss           | -            |
 | MusicAlert                       | Apple Music queue/loved alerts like on iOS 16.4!                                  | yes                 | Havoc             | -            |
 | MusicArtworkSave                 | Save Album Artwork in Music.app!                                                  | yes                 | ETHN's repo       | -            |
+| MusicQueueBeGone                 | Remove the Apple Music Queue HUD                                                  | Partly Working      | Havoc             | Can't Access to tweak settings in Settings app, cause Settings app crash, but still work as default config 
+       |
 | NewTerm3 Beta                    | Terminal controls for iOS                                                         | yes                 | Roothide's repo   | -            |
 | NiceBarX                         | -                                                                                 | yes                 | NiceiOS           | -            |
 | NiceCaller                       | -                                                                                 | yes                 | NiceiOS           | -            |
@@ -135,7 +139,9 @@ YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS 
 | PowerSelector                    | Adding Respring/LDRestart/... to your CC and app                                  | yes                 | ichitaso repo     | -            |
 | PrimeDeck                        | Design and Control Your Appswitcher!                                              | yes                 | [0xkuj's repo](https://0xkuj.yourepo.com/)      | -            |
 | QuickActions                     | Start using your phone quicker by launching your favorite apps directly from the lockscreen.     | yes    | ichitaso repo        | -            |
+| QuickCCDismiss                   | Quickly dismiss CC from expanded modules.                                         | yes                 | AnthoPak's repo   | -            |
 | ReachPlayer                      | Now Playing info in Reachability Window!                                          | yes                 | ETHN's repo       | -            |
+| RealCC                           | Actually disable Wi-Fi and Bluetooth from the CC                                  | yes                 | Nezuko's repo     | -            |
 | RecordPause                      | Pause/resume video recording for stock camera app.                                | yes                 | PoomSmart's Repo  | -            |
 | Rune                             | The easiest way to control your iOS device!                                       | yes                 | Havoc             | -            |
 | Senri                            | Never lose your Notifications again!                                              | yes                 | Chariz            | -            |
