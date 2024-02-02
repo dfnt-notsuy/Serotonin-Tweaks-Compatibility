@@ -123,7 +123,7 @@ YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS 
 | MusicAlert                       | Apple Music queue/loved alerts like on iOS 16.4!                                  | yes                 | Havoc             | -            |
 | MusicArtworkSave                 | Save Album Artwork in Music.app!                                                  | yes                 | ETHN's repo       | -            |
 | MusicQueueBeGone                 | Remove the Apple Music Queue HUD                                                  | Partly Working      | Havoc             | Can't Access to tweak settings in Settings app, cause Settings app crash, but still work as default config 
-       |
+          |
 | NewTerm3 Beta                    | Terminal controls for iOS                                                         | yes                 | Roothide's repo   | -            |
 | NiceBarX                         | -                                                                                 | yes                 | NiceiOS           | -            |
 | NiceCaller                       | -                                                                                 | yes                 | NiceiOS           | -            |
