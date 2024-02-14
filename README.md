@@ -120,6 +120,7 @@ YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS 
 | Lynx 2                           | Ultimate Device Customization                                                     | yes                 | Havoc             | -            |
 | MobileGoose                      | Desktop Goose but for iOS                                                         | yes                 | b4db1r3's r3p0    | -            |
 | MoreLinesNotifications           | The Tweak Increases the Lines for the Notifications                               | yes                 | BigBoss           | -            |
+| Mineland                         | Lower Dynamic Island for who using Dynamic Island on notched devices. Require enable by DynamicCowTS or something like that first to get the Dynamic Island.   | yes                 | [34306's Github](https://github.com/34306/mineland)  | -            |
 | MusicAlert                       | Apple Music queue/loved alerts like on iOS 16.4!                                  | yes                 | Havoc             | -            |
 | MusicArtworkSave                 | Save Album Artwork in Music.app!                                                  | yes                 | ETHN's repo       | -            |
 | MusicQueueBeGone                 | Remove the Apple Music Queue HUD                                                  | Partly Working      | Havoc             | Can't Access to tweak settings in Settings app, cause Settings app crash, but still work as default config |
@@ -145,6 +146,7 @@ YOU CAN PULL REQUEST OR MAKE AN ISSUE FOR ANY CHANGES IF YOU TESTED SOME TWEAKS 
 | Rune                             | The easiest way to control your iOS device!                                       | yes                 | Havoc             | -            |
 | Senri                            | Never lose your Notifications again!                                              | yes                 | Chariz            | -            |
 | SettingsRevamp                   | Customize Settings app                                                            | yes                 | dhinakg's repo    | -            | 
+| SettingsWidgets                  | Modernize your settings                                                           | yes                 | -                 | Get deb file from [Release](https://github.com/dfnt-notsuy/Serotonin-Tweaks-Compatibility/releases/tag/deb)           | 
 | ShakeLight                       | Shake your device to toggle flashlight.                                           | yes                 | Snoolie’s repo    | -            | 
 | ShowTouch                        | A tweak to show touching events on the screen                                     | yes                 | Roothide's repo   | -            |
 | Shuffle                          | Organize your settings                                                            | yes                 | CreatureCoding    | -            |
